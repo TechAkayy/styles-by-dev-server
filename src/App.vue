@@ -4,15 +4,15 @@
 
     <h4>Dev Servers under scope are:</h4>
 		<ul>
-			<li>- Webpack</li>
-			<li>- Vite</li>
+			<li>Webpack</li>
+			<li>Vite</li>
 		</ul>
 	</div>
 </template>
 
 <style data-pg-id="101">
-	@import './assets/base.css';
-	/* @import '@/assets/base.css'; */
+	/* @import './assets/base.css'; */
+	@import '@/assets/base.css';
 
   p, .pg-node-id-2 {
 		color: #5add64;
